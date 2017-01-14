@@ -1,3 +1,6 @@
+typography_spectrum: 0.8994766268879175
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -7,9 +10,27 @@ color:
     - '#7F785E'
   brandStrength: 0.7683417375665158
   lightness: 0.4368572374805808
-  rhythmicContrast: 0.3937751667108387
   saturation: 0.5064048157073557
+  rhythmicContrast: 0.3937751667108387
+github: true
+opengraph:
+  type: ''
+  appId: ''
 layout_spectrum: 0.8445287672802806
+author:
+  name: Daniel
+  url: ''
+  email: ''
 name: The Road of Voice
-typography_spectrum: 0.8994766268879175
-title: 'is the road to the village. '
+url: 'http://swidnikk.com'
+navigation:
+  - name: Portfolio
+    url: 'http://portfolio.swidnikk.com'
+    type: external
+title: The Road of Voice
+content: []
+description: Days of Darkness
+purpose:
+  - type: contact
+    url: 'mailto:da.webs@gmail.com'
+    label: Send your voice upon the road.
