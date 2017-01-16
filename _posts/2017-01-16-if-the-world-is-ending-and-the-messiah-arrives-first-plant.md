@@ -3,10 +3,12 @@ inFeed: true
 description: >-
   "If the world is ending and the Messiah arrives, first plant a tree, andthen
   see if the story is true." – Rabbinical teaching
-dateModified: '2017-01-16T09:33:41.121Z'
-datePublished: '2017-01-16T09:33:42.536Z'
+dateModified: '2017-01-16T10:33:57.279Z'
+datePublished: '2017-01-16T10:33:59.073Z'
 title: ''
-author: []
+author:
+  - name: Jessica Durrant
+    url: 'https://www.etsy.com/listing/78381175/watercolor-travel-illustration-its-a'
 publisher: {}
 via: {}
 sourcePath: >-
