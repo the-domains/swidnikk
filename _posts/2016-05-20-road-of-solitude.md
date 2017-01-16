@@ -1,12 +1,13 @@
 ---
-dateModified: '2017-01-16T10:34:29.679Z'
-datePublished: '2017-01-16T10:34:30.231Z'
+dateModified: '2017-01-16T10:34:55.122Z'
+datePublished: '2017-01-16T10:34:55.634Z'
 description: >-
   There are many roads we walk in this life. The road of Solitude is the road of
   knowing.
 inFeed: true
 title: 'The Road of Solitude '
-author: []
+author:
+  - name: Daniel Swid
 sourcePath: _posts/2016-05-20-road-of-solitude.md
 publisher: {}
 via: {}
