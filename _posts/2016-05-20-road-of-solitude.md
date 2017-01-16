@@ -1,14 +1,19 @@
 ---
-dateModified: '2016-05-20T06:33:59.805Z'
-datePublished: '2016-05-20T06:34:11.282Z'
-description: There are many roads we walk in this life. The road of Solitude is the road of Knowing.
+dateModified: '2017-01-16T10:34:29.679Z'
+datePublished: '2017-01-16T10:34:30.231Z'
+description: >-
+  There are many roads we walk in this life. The road of Solitude is the road of
+  knowing.
 inFeed: true
-title: 'Road of Solitude '
+title: 'The Road of Solitude '
 author: []
-starred: false
 sourcePath: _posts/2016-05-20-road-of-solitude.md
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2016-05-20T06:34:11.282Z'
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d779c0d-3f8c-4587-86ef-b7512067c076.jpg)
+![There are many roads we walk in this life. The road of Solitude is the road of knowing.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/861ab8fe552d1d1920813d835bd33f0ebcb40ab1.jpg)
