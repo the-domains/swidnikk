@@ -1,6 +1,5 @@
-typography_spectrum: 0.8994766268879175
-content_rating:
-  adult: false
+layout_spectrum: 0.02435945405717017
+typography_spectrum: 0.4743970087294162
 color:
   brandColors:
     - '#000000'
@@ -8,15 +7,16 @@ color:
     - '#C3C4C6'
     - '#2A3322'
     - '#7F785E'
-  brandStrength: 0.7683417375665158
-  lightness: 0.4368572374805808
-  saturation: 0.5064048157073557
-  rhythmicContrast: 0.3937751667108387
+  brandStrength: 0.7697672917308415
+  lightness: 0.4383202688567488
+  saturation: 0.5037378070663919
+  rhythmicContrast: 0.39056111123320636
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.8445287672802806
 analytics:
   twitter: swidnikk
 author:
