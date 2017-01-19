@@ -2,12 +2,12 @@
 inFeed: true
 description: >-
   In the darkness I am awakened by the quick patter of footsteps across the
-  living room. I recognize the sound of little feed, now muted on the carpet up
+  living room. I recognize the sound of little feet, now muted on the carpet up
   the stairs. The boy slips beneath the heavy covers with rapid heart and
   breath. “A bad dream,” he whispers, and a pause. “I dreamed my pinkys fell
   off.”
-dateModified: '2017-01-19T09:23:05.736Z'
-datePublished: '2017-01-19T09:23:06.732Z'
+dateModified: '2017-01-19T09:23:33.415Z'
+datePublished: '2017-01-19T09:23:33.961Z'
 title: 'Darkness '
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ _type: Article
 
 # Darkness 
 
-In the darkness I am awakened by the quick patter of footsteps across the living room. I recognize the sound of little feed, now muted on the carpet up the stairs. The boy slips beneath the heavy covers with rapid heart and breath. "A bad dream," he whispers, and a pause. "I dreamed my pinkys fell off."
+In the darkness I am awakened by the quick patter of footsteps across the living room. I recognize the sound of little feet, now muted on the carpet up the stairs. The boy slips beneath the heavy covers with rapid heart and breath. "A bad dream," he whispers, and a pause. "I dreamed my pinkys fell off."
 
 Shadows and scales of the underbelly. At depths too great seed sprouts cannot reach the light, and silently wither in the darkness.
 
