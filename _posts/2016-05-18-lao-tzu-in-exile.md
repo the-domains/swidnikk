@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-20T06:52:54.069Z'
+datePublished: '2017-01-19T22:52:02.323Z'
 sourcePath: _posts/2016-05-18-lao-tzu-in-exile.md
 isBasedOnUrl: 'http://www.jayleeming.com/lao-tzu-in-exile.html'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - way
 related: []
 author: []
-dateModified: '2016-05-19T20:02:15.257Z'
+dateModified: '2017-01-19T22:52:01.569Z'
 title: Lao-Tzu in Exile
 app_links: []
 publisher:
@@ -23,12 +23,22 @@ publisher:
   name: Jay Leeming
   favicon: 'http://www.jayleeming.com/favicon.ico'
   domain: www.jayleeming.com
-description: 'At last I’ve chosen water as my boat, Here where jackal’s cries grind down the moon.  The way of heaven is an empty road.  Our names are paper ships: they do not float For long. Success is a great misfortune. At last I’ve chosen water as my boat. The Emperor’s court was an ill-fitting coat; It was men shouting in a crowded room.  The way of heaven is an empty road  Vanishing in darkness. The leaves of oaks  Can never fall too late or too soon. At last I’ve chosen water as my boat  For it returns to the sea, as a bell’s note Fades into the echoing air of noon.  The way of heaven is this empty road Which I walk. A single strand of smoke; Stars shimmering above endless dunes. At last I’ve chosen water as my boat. The way of heaven is an empty road.'
+description: >-
+  At last I’ve chosen water as my boat,Here where jackal’s cries grind down the
+  moon. The way of heaven is an empty road.Our names are paper ships: they do
+  not floatFor long. Success is a great misfortune.At last I’ve chosen water as
+  my boat.The Emperor’s court was an ill-fitting coat;It was men shouting in a
+  crowded room. The way of heaven is an empty roadVanishing in darkness. The
+  leaves of oaks Can never fall too late or too soon.At last I’ve chosen water
+  as my boatFor it returns to the sea, as a bell’s noteFades into the echoing
+  air of noon. The way of heaven is this empty roadWhich I walk. A single strand
+  of smoke;Stars shimmering above endless dunes.At last I’ve chosen water as my
+  boat.The way of heaven is an empty road.
 inLanguage: en
 starred: false
+datePublishedOriginal: '2016-05-20T06:52:54.069Z'
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
