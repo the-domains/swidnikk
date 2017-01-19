@@ -1,6 +1,6 @@
 ---
-dateModified: '2017-01-16T10:35:28.928Z'
-datePublished: '2017-01-16T10:35:29.353Z'
+dateModified: '2017-01-19T22:51:51.291Z'
+datePublished: '2017-01-19T22:51:52.152Z'
 description: >-
   There are many roads we walk in this life. The road of solitude is the road of
   knowing.
@@ -11,8 +11,10 @@ author:
 sourcePath: _posts/2016-05-20-road-of-solitude.md
 publisher: {}
 via: {}
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-05-20T06:34:11.282Z'
+url: the-road-of-solitude/index.html
 _context: 'http://schema.org'
 _type: Article
 
