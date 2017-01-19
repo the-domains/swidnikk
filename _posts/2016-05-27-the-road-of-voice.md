@@ -2,8 +2,8 @@
 description: >-
   My voice is my community containing tribal groups and influences, a confluence
   of the ancestral, regional, borrowed and imposed.
-dateModified: '2017-01-19T22:51:42.842Z'
-datePublished: '2017-01-19T22:51:43.280Z'
+dateModified: '2017-01-19T22:52:01.569Z'
+datePublished: '2017-01-19T22:52:01.982Z'
 title: The Road of Voice
 author: []
 sourcePath: _posts/2016-05-27-the-road-of-voice.md
