@@ -4,9 +4,9 @@
         <description><![CDATA[The Road of Voice]]></description>
         <link>https://thegrid.ai/roadofvoice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Jan 2017 22:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2017 22:52:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roadofvoice/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jan 2017 22:51:43 GMT</pubDate>
+        <pubDate>Thu, 19 Jan 2017 22:51:52 GMT</pubDate>
         <item>
             <title><![CDATA[Twitter]]></title>
             <description><![CDATA[<h1>Twitter</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNzEEOwjAMRNGrWN633iKU5BRcwASXhDZpFBtVvX0rARLb-ZrnGOLCqh5ty2bSB8tFllwFIXWZPCazpleibx_jWki3_Kh5njHcNhFTuO_w2xxxAKex52bAutcI2qNHorawTWsv4z91vp6nML4UISbuKubxbdNwweDow4QDqmg7yA" height="244"></iframe>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVjkEOwiAQRa9C2FO2xgBx5T1GOhQshYaZptHTS9Qmuv1v_ptvQMSGwcrIvNJZa94TM7bB10XTnsaS5lkKn4HIyi9UoeZcd3XbmGuRYgQGRemJVmZoEx5J7DfkG2JRBZZOA2T6o75uhY_cXd9acTn-Gg3OdEFaWQA9ihfUvJVarxk41LYMv2t7aUKm4U59b4RG2M0bB3WSzuiPxr0A2JpWUA" height="244"></iframe>]]></description>
@@ -41,6 +41,13 @@
             <link>http://www.jayleeming.com/lao-tzu-in-exile.html</link>
             <guid isPermaLink="false">60ff7761-85f6-4f9c-b911-f2e912a5cc9a</guid>
             <pubDate>Fri, 20 May 2016 06:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Road of Solitude ]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/861ab8fe552d1d1920813d835bd33f0ebcb40ab1.jpg" title="The Road of Solitude " alt="There are many roads we walk in this life. The road of solitude is the road of knowing.">]]></description>
+            <link>https://thegrid.ai/roadofvoice/the-road-of-solitude/index.html</link>
+            <guid isPermaLink="false">66ff9d1b-f2a5-46f4-aa18-5ef4c2afb6bd</guid>
+            <pubDate>Fri, 20 May 2016 06:34:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
