@@ -5,8 +5,8 @@ description: >-
   living room. I recognize the sound of little feet, now muted on the carpet up
   the stairs. The boy slips beneath the heavy covers with rapid heart and
   breath. 
-dateModified: '2017-01-19T10:43:22.693Z'
-datePublished: '2017-01-19T10:43:23.314Z'
+dateModified: '2017-01-19T10:49:13.538Z'
+datePublished: '2017-01-19T10:49:14.299Z'
 title: 'Darkness '
 author: []
 publisher: {}
@@ -30,13 +30,20 @@ In the darkness I am awakened by the quick patter of footsteps across the living
 
 "I dreamed my pinkys fell off."
 
-Shadows and scales of the underbelly. Seed sprouts at depth cannot ascend the stairs to reach the light and silently wither beneath the darkness.
+Shadows and scales of the underbelly. Seed sprouts at depth cannot ascend the stairs to reach the light and silently wither beneath the darkness. 
+
+It is late We've gathered to see the children acting out a ritual, a festival, a play--- abstract and forgotten, foreign to many. The message is simple. Dark and sinister forces lurk, a dragon perhaps. Our decency, civility, and goodness have been taken for granted. It was not always this way and like a bad habit can return Not always choice and were not always in the
 
 The boy climbed into my bed and slept the whole night through. In the gathering grey of early morning, we silently stared at the ceiling and enjoyed the warmth beneath the covers. The boy turned to me and said, in a hushed voice, "Last night, I dreamed that I was a light bulb."
 
 In the park on a wide green lawn sit parents gathered for Michaelmas. The bright sunshine of the day betrays us. Gathered with one another, friends new and old, the meaning forgotten, many choose instead to chatter amongst their bread and spread. 
 
-We've gathered to see the children acting out a ritual, a festival, a play--- abstract and forgotten, foreign to many. The message is simple. Dark and sinister forces lurk, a dragon perhaps. Our decency, civility, and goodness have been taken for granted. It was not always this way and like a bad habit can return Not always choice and were not always in the 
+Walking with a veil unlifted I go  
+As I sing songs to the earth,  
+Walking with a veil unlifted I go,   
+As   
+Mighty is my courage, mighty is my strength,  
+Mighty is my courage, yes, mighty is my strength. 
 
 The beat of the deep drum is a slow reverberation, a steady reminder. Recall the silk and grey, the running and the flowing of the darkness that pervades our world, in shapes and forms forgotten. These times, so dark, the children unaware of what they have not unleashed.
 
