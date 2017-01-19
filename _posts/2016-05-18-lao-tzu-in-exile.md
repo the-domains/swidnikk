@@ -1,7 +1,6 @@
 ---
-datePublished: '2017-01-19T22:52:02.323Z'
+datePublished: '2017-01-19T22:52:10.507Z'
 sourcePath: _posts/2016-05-18-lao-tzu-in-exile.md
-isBasedOnUrl: 'http://www.jayleeming.com/lao-tzu-in-exile.html'
 keywords:
   - heaven
   - chosen
@@ -15,7 +14,7 @@ keywords:
   - way
 related: []
 author: []
-dateModified: '2017-01-19T22:52:01.569Z'
+dateModified: '2017-01-19T22:52:09.911Z'
 title: Lao-Tzu in Exile
 app_links: []
 publisher:
@@ -35,10 +34,12 @@ description: >-
   of smoke;Stars shimmering above endless dunes.At last I’ve chosen water as my
   boat.The way of heaven is an empty road.
 inLanguage: en
-starred: false
-datePublishedOriginal: '2016-05-20T06:52:54.069Z'
 via: {}
 inFeed: true
+hasPage: true
+starred: false
+datePublishedOriginal: '2016-05-20T06:52:54.069Z'
+url: lao-tzu-in-exile/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
