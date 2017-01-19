@@ -5,8 +5,8 @@ description: >-
   living room. I recognize the sound of little feet, now approaching muted on
   the carpet up the stairs. The boy slips to safety beneath the heavy covers
   with rapid heart and breath.
-dateModified: '2017-01-19T12:50:31.066Z'
-datePublished: '2017-01-19T12:50:32.392Z'
+dateModified: '2017-01-19T22:52:01.569Z'
+datePublished: '2017-01-19T22:52:01.977Z'
 title: Shadowlark
 author: []
 publisher: {}
