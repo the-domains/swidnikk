@@ -17,6 +17,8 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.8445287672802806
+analytics:
+  twitter: swidnikk
 author:
   name: Daniel
   url: ''
@@ -27,6 +29,9 @@ navigation:
   - name: Portfolio
     url: 'http://portfolio.swidnikk.com'
     type: external
+  - name: Tools
+    id: fd6e44b6-11ab-4885-a9d5-b6fe1e906df0
+    type: content
 title: The Road of Voice
 content: []
 description: Days of Darkness
@@ -34,5 +39,3 @@ purpose:
   - type: contact
     url: 'mailto:da.webs@gmail.com'
     label: Send your voice upon the road.
-analytics:
-  twitter: swidnikk
