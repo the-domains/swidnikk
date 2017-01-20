@@ -35,7 +35,4 @@ navigation:
 title: The Road of Voice
 content: []
 description: Days of Darkness
-purpose:
-  - type: contact
-    url: 'mailto:da.webs@gmail.com'
-    label: Send your voice up the road
+purpose: []
