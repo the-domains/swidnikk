@@ -1,6 +1,6 @@
 ---
-dateModified: '2017-01-19T22:52:01.569Z'
-datePublished: '2017-01-19T22:52:01.984Z'
+dateModified: '2017-01-20T04:38:46.726Z'
+datePublished: '2017-01-20T04:38:47.302Z'
 description: >-
   There are many roads we walk in this life. The road of solitude is the road of
   knowing.
