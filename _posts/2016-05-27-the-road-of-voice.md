@@ -2,8 +2,8 @@
 description: >-
   There are many roads I choose to walk. These are experiments, early essays,
   reflections, poems, and photography—my road of voice. 
-dateModified: '2017-01-20T04:38:05.523Z'
-datePublished: '2017-01-20T04:38:06.059Z'
+dateModified: '2017-01-20T04:38:46.726Z'
+datePublished: '2017-01-20T04:38:47.235Z'
 title: The Road of Voice
 author: []
 sourcePath: _posts/2016-05-27-the-road-of-voice.md
