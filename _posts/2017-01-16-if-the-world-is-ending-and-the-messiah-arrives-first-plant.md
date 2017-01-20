@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "If the world is ending and the Messiah arrives, first plant a tree, andthen
   see if the story is true." – Rabbinical teaching
-dateModified: '2017-01-19T22:52:01.569Z'
-datePublished: '2017-01-19T22:52:02.102Z'
+dateModified: '2017-01-20T04:38:46.726Z'
+datePublished: '2017-01-20T04:38:47.630Z'
 title: ''
 author: []
 publisher: {}
