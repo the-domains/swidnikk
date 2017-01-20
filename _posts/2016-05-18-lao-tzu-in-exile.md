@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-19T22:52:10.507Z'
+datePublished: '2017-01-20T04:38:47.308Z'
 sourcePath: _posts/2016-05-18-lao-tzu-in-exile.md
 keywords:
   - heaven
@@ -14,7 +14,7 @@ keywords:
   - way
 related: []
 author: []
-dateModified: '2017-01-19T22:52:09.911Z'
+dateModified: '2017-01-20T04:38:46.726Z'
 title: Lao-Tzu in Exile
 app_links: []
 publisher:
