@@ -5,8 +5,8 @@ description: >-
   living room. I recognize the sound of little feet, now approaching muted on
   the carpet up the stairs. The boy slips to safety beneath the heavy covers
   with rapid heart and breath.
-dateModified: '2017-01-20T04:38:46.726Z'
-datePublished: '2017-01-20T04:38:47.311Z'
+dateModified: '2017-04-21T19:13:49.050Z'
+datePublished: '2017-04-21T19:13:49.887Z'
 title: Shadowlark
 author: []
 publisher: {}
@@ -26,13 +26,13 @@ _type: Article
 
 In the darkness I am awakened by the quick patter of footsteps across the living room. I recognize the sound of little feet, now approaching muted on the carpet up the stairs. The boy slips to safety beneath the heavy covers with rapid heart and breath.
 
-_A bad dream,_ he whispers, then a pause.
+He turns and snuggles towards my ear and whispers.
 
-_I dreamed my pinkys fell off..._
+_A bad dream... I dreamed my pinkys fell off._
 
 ---
 
-In late September the northern hemisphere sunshine at noon betrays us with retreat. Tomorrow, darkness rises and shadows grow. A drum beats slowly and each reverberation announces the coming of change like rumbles from the earth. The children act out St. George and the Dragon, gather the autumn winds and run with grey flowing silks like an underbelly of scales.
+In late September the northern hemisphere sunshine at noon betrays us with retreat. Tomorrow, darkness rises and shadows grow. A drum beats slowly and each reverberation announces the coming of change like rumbles from the earth. Children stand gathered in the park with their teachers before an empty stage. Parents assemble their blankets, quilted together in the green grass. In a moment, the children will perform "St. George and the Dragon" like Autumn winds and run with grey flowing silks like an underbelly of scales.
 
 In January, I recall the silk and grey. The running and the flowing of the darkness that pervades our world, in shapes and corners and forms, with summer mirth a distant memory. The children unaware of what they have not unleashed do not know the threats of fragmentation, instability, intolerance, and war.
 
