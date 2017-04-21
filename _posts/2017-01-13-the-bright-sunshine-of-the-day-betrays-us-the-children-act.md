@@ -5,8 +5,8 @@ description: >-
   living room. I recognize the sound of little feet, now approaching muted on
   the carpet up the stairs. The boy slips to safety beneath the heavy covers
   with rapid heart and breath.
-dateModified: '2017-04-21T19:13:49.050Z'
-datePublished: '2017-04-21T19:13:49.887Z'
+dateModified: '2017-04-21T19:17:00.558Z'
+datePublished: '2017-04-21T19:17:01.248Z'
 title: Shadowlark
 author: []
 publisher: {}
@@ -32,9 +32,9 @@ _A bad dream... I dreamed my pinkys fell off._
 
 ---
 
-In late September the northern hemisphere sunshine at noon betrays us with retreat. Tomorrow, darkness rises and shadows grow. A drum beats slowly and each reverberation announces the coming of change like rumbles from the earth. Children stand gathered in the park with their teachers before an empty stage. Parents assemble their blankets, quilted together in the green grass. In a moment, the children will perform "St. George and the Dragon" like Autumn winds and run with grey flowing silks like an underbelly of scales.
+In late September the northern hemisphere sunshine at noon betrays us with retreat. Tomorrow, darkness rises and shadows grow. In the park, a drum beats slowly and each reverberation announces the coming of change like rumbles from the earth. Children stand gathered with their teachers before an empty stage. Parents chit chat quietly to assemble their blankets, quilted together in the green grass. In a moment, the children will perform "St. George and the Dragon" and like the Autumn winds, they will run with grey flowing silks above their heads as an underbelly of scales.
 
-In January, I recall the silk and grey. The running and the flowing of the darkness that pervades our world, in shapes and corners and forms, with summer mirth a distant memory. The children unaware of what they have not unleashed do not know the threats of fragmentation, instability, intolerance, and war.
+In January, I recall the flowing of silk and grey. The running and the flowing of darkness that pervades our world, in shapes and corners and forms, with summer mirth a distant fading memory. The children unaware of what they have not unleashed, the threats of fragmentation, instability, intolerance, and war.
 
 Our decency, civility, and goodness that we have come to expect were not always taken for granted. Bad habits and addictions are always within reach.
 
