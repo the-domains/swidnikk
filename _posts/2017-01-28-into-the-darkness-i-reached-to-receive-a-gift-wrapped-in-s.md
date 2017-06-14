@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: >-
-  Into the darkness I reached to receive a gift,  wrapped in soft gravel, a
-  conspiring rain,  and blades of green grass;  proffered by the silence of
+  Into the darkness I reached to receive a gift, wrapped in soft gravel, a
+  conspiring rain, and blades of green grass; proffered by the silence of
   smiling shadows.
-dateModified: '2017-01-28T06:47:03.310Z'
-datePublished: '2017-01-28T06:47:04.475Z'
-title: ''
+dateModified: '2017-06-14T20:12:20.119Z'
+datePublished: '2017-06-14T20:12:20.807Z'
+title: Courage in Darkness
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,8 @@ datePublishedOriginal: '2017-01-28T06:40:00.155Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a05c6310-732c-463c-b581-4c5b9a948644.jpg)
+# Courage in Darkness
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03181068-3767-49d1-b64e-6a68214f73b0.jpg)
 
 Into the darkness I reached to receive a gift,   
 wrapped in soft gravel, a conspiring rain,   
